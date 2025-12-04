@@ -32,7 +32,7 @@ smart-parking-arduino/
 | File | Description |
 |------|-------------|
 | `src/smart_parking.ino` | **Main Arduino code** fully implemented from your PDF |
-| `docs/Parking Management.pdf` | Your original full documentation |
+| `docs/Parking Management.pdf` | Original full documentation |
 | `README.md` | This markdown project summary |
 
 ---
@@ -126,14 +126,3 @@ You can view or download it here:
 
 **Hamed Nahvi**  
 GitHub: https://github.com/Hamedius
-
----
-
-## ✔️ Summary
-
-This repository provides a clean, professional, CV‑ready structure of your Smart Parking System project including:
-
-- Working Arduino code  
-- Full project documentation  
-- Clean README for recruiters  
-- Expandable folder structure  
