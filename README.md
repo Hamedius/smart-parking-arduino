@@ -1,20 +1,5 @@
-# Smart Parking System (Arduino)
+## ✅ Repository Contents
 
-This repository contains the **Smart Automatic Car Parking System** implemented using **Arduino UNO**, **IR sensors**, **DC motor with L293D driver**, and a **16×2 LCD display**.  
-The design and logic are fully based on the project documentation *Parking Management.pdf*.
-
-This project demonstrates:
-- Embedded C/C++ development on Arduino  
-- Sensor-based automation  
-- Real‑time parking‑slot monitoring  
-- Motor control for automatic gate movement  
-- LCD interface for system status display  
-
----
-
-## ✅ Repository Contents (What You Must Include)
-
-Your GitHub repo should contain exactly these folders/files:
 
 ```
 smart-parking-arduino/
