@@ -80,7 +80,6 @@ src/smart_parking.ino
 You can view or download it here:
 
 👉 **smart_parking.ino (download)**  
-(Located in the repo after upload)
 
 ---
 
