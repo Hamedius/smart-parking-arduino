@@ -62,10 +62,6 @@ The full code is included inside:
 src/smart_parking.ino
 ```
 
-You can view or download it here:
-
-👉 **smart_parking.ino (download)**  
-
 ---
 
 ## ▶️ How to Run
