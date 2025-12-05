@@ -1,4 +1,4 @@
-## ✅ Repository Contents
+##  Repository Contents
 
 
 ```
@@ -22,7 +22,7 @@ smart-parking-arduino/
 
 ---
 
-## 🔧 Hardware Used
+##  Hardware Used
 
 - **Arduino UNO**
 - **4× IR/PIR sensors** for slot detection  
@@ -36,7 +36,7 @@ smart-parking-arduino/
 
 ---
 
-## 🧠 System Logic
+##  System Logic
 
 ### Slot Detection
 - LOW = slot *occupied*  
@@ -54,7 +54,7 @@ smart-parking-arduino/
 
 ---
 
-## 📟 Arduino Code
+##  Arduino Code
 
 The full code is included inside:
 
@@ -64,7 +64,7 @@ src/smart_parking.ino
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Open Arduino IDE  
 2. Load:  
@@ -78,7 +78,7 @@ src/smart_parking.ino
 
 ---
 
-## 🔌 Wiring Summary
+##  Wiring Summary
 
 | Component | Arduino Pin |
 |----------|-------------|
@@ -92,17 +92,6 @@ src/smart_parking.ino
 
 ---
 
-## 📈 Possible Improvements
+##  Author
 
-- Add **entrance + exit sensors**  
-- Add **buzzer** for full parking alert  
-- Add **servo motor** instead of DC motor for smoother control  
-- Add **Wi‑Fi / ESP32 monitoring**  
-- Add **EEPROM logging** for daily statistics  
-
----
-
-## 👤 Author
-
-**Hamed Nahvi**  
-GitHub: https://github.com/Hamedius
+**Hamed Nahvi**
